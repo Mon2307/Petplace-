@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "backup",
+    "slug": "backup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Images/icon.png",
+    "userInterfaceStyle": "light",
+   
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.backup"
+    },
+    "web": {
+      "favicon": "./assets/Images/favicon.png"
+    }
+  }
+}
